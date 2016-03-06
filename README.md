@@ -1,0 +1,3 @@
+## NavigationBarResetBackground
+
+![http://images2015.cnblogs.com/blog/784420/201603/784420-20160306180856487-1209734661.gif](http://images2015.cnblogs.com/blog/784420/201603/784420-20160306180856487-1209734661.gif)
